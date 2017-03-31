@@ -64,8 +64,6 @@ const
 , fn = ({term, display, actions, update}) => {
     if (!term.match(/^hotel/)) return;
 
-    actions.open('https://github.com/KELiON/cerebro/blob/master/docs/plugins/plugin-structure.md')
-
     got(ENDPOINT)
       .then(pipe( compose(JSON.parse, prop('body'))
                 , serversToList
