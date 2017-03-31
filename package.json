@@ -1,6 +1,6 @@
 {
   "name": "cerebro-hotel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cerebro plugin that lets you start, stop and open Hotel apps.",
   "license": "MIT",
   "repository": "lubien/cerebro-hotel",
