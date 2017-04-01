@@ -12,7 +12,7 @@ In Cerebro, type `hotel` then:
 
 ## Settings
 
-This plugin assume your Hotel runs at `http://localhost:2000` and your TLD is 'dev'. To change this you need to edit the following envs:
+This plugin assume your Hotel runs at `http://localhost:2000` and your TLD is `dev`. To change this you need to edit the following envs:
 
 ```sh
 HOTEL_HOST='http://127.0.0.1:2000'
