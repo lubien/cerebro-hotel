@@ -1,4 +1,4 @@
-# Cerebro Plugin
+# Cerebro Hotel
 
 > Cerebro plugin that lets you start, stop and open [Hotel](https://www.npmjs.com/package/hotel) apps.
 
