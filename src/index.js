@@ -74,5 +74,7 @@ const
 
 module.exports = {
   keyword,
+  icon,
+  name: 'Manage Hotel applications',
   fn
 }
