@@ -6,9 +6,9 @@
 
 In Cerebro, type `hotel` then:
 
-* Press <kbd>Tab</kbd> to toggle server status as running/stopped.
-* Press <kbd>Enter</kbd> to open the proxied URL.
-* Press <kbd>Shift+Enter</kbd> to open the real URL.
+- Press <kbd>Tab</kbd> to toggle server status as running/stopped.
+- Press <kbd>Enter</kbd> to open the proxied URL.
+- Press <kbd>Shift+Enter</kbd> to open the real URL.
 
 ## Settings
 
@@ -23,9 +23,9 @@ TLD='dev'
 
 ## Related
 
-* [Cerebro](http://github.com/KELiON/cerebro) – main repo for Cerebro app;
-* [alfred-hotel](https://github.com/exah/alfred-hotel/) - My version is based on this.
+- [Cerebro](http://github.com/KELiON/cerebro) – main repo for Cerebro app;
+- [alfred-hotel](https://github.com/exah/alfred-hotel/) - My version is based on this.
 
 ## License
 
-MIT © [Lubien](http://lubien.me)
+[MIT](LICENSE) © [Lubien](http://lubien.me)
